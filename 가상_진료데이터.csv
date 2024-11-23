@@ -1,0 +1,11 @@
+﻿진료일자,환자명,성별,생년월일,주상병코드,부상병코드,진료코드,주상병코드 설명,부상병코드 설명,진료코드 설명
+2023-12-20,환자1,남,1976-11-29,M545,R51,C789,요통 (Low Back Pain),두통 (Headache),한약 조제 (Herbal Medicine Prescription)
+2024-10-08,환자2,남,1985-03-18,I10,M255,C789,본태성 고혈압 (Essential Hypertension),관절 통증 (Joint Pain),한약 조제 (Herbal Medicine Prescription)
+2024-01-28,환자3,남,1975-11-05,E119,K297,A123,상세불명의 2형 당뇨병 (Type 2 Diabetes Mellitus),만성 위염 (Chronic Gastritis),침 치료 (Acupuncture Treatment)
+2024-04-27,환자4,남,1986-06-27,E119,F419,C789,상세불명의 2형 당뇨병 (Type 2 Diabetes Mellitus),상세불명의 불안장애 (Unspecified Anxiety Disorder),한약 조제 (Herbal Medicine Prescription)
+2024-11-01,환자5,남,1981-07-24,I10,Z115,E345,본태성 고혈압 (Essential Hypertension),기타 특별한 선별검사 (Other Special Screening),부항 치료 (Cupping Therapy)
+2024-04-14,환자6,여,1968-05-03,M545,F419,C789,요통 (Low Back Pain),상세불명의 불안장애 (Unspecified Anxiety Disorder),한약 조제 (Herbal Medicine Prescription)
+2024-07-30,환자7,여,2001-09-18,J209,M255,C789,급성 기관지염 (Acute Bronchitis),관절 통증 (Joint Pain),한약 조제 (Herbal Medicine Prescription)
+2024-07-07,환자8,남,1974-05-03,I10,F419,A123,본태성 고혈압 (Essential Hypertension),상세불명의 불안장애 (Unspecified Anxiety Disorder),침 치료 (Acupuncture Treatment)
+2024-09-09,환자9,여,1966-03-02,J209,K297,B456,급성 기관지염 (Acute Bronchitis),만성 위염 (Chronic Gastritis),뜸 치료 (Moxibustion Treatment)
+2024-02-01,환자10,여,2000-12-06,K292,M255,D012,알코올성 위염 (Alcoholic Gastritis),관절 통증 (Joint Pain),추나요법 (Chuna Therapy)
